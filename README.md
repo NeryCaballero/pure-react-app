@@ -15,3 +15,9 @@ This little project purpose is to understand exactly what 'create-react-app' is 
   - eslint
   - prettier
   - package.json 
+
+## available scripts
+
+- ```npm run dev``` : starts server
+- ```npm run format``` : runs prettier
+- ```npm run lint``` : runs ESLint
